@@ -1,0 +1,1 @@
+Acredito que faltou ser criado um endpoint para exclusão dos bancos que foram cadastrados previamente, caso algum banco desista de participar.
